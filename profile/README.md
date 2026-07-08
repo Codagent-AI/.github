@@ -37,5 +37,5 @@ The goal is not to replace engineering judgment. The goal is to make AI-native e
 
 ## Follow along
 
-- Organization: [github.com/Codagent-AI](https://github.com/Codagent-AI)
+- Website: [codagent.dev](https://www.codagent.dev/)
 - Newsletter and writing: [Agents, Harnessed](https://github.com/Codagent-AI/newsletter)
